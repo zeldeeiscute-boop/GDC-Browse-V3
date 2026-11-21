@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+# never commit local data or OAuth credentials
+.cdg_browse/
+oauth.json
+accounts.json
+session.json
+chat_key
+save_v2.json
+acct_*.json
